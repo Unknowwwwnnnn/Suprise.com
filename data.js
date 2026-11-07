@@ -17,10 +17,9 @@ window.SITE_DATA = {
   greeting: "Happy Birthday, Wifey!",
 
   // 4. Short introduction under the greeting
-  intro: "[PLACEHOLDER] Write a short, sweet introduction here.",
-
+  intro: "20th Birthday"
   // 5. Photo on the Home page (put the file in assets/images/)
-  mainPhoto: "assets/images/5.jpg",
+  mainPhoto: "images/5.jpg",
 
   // 6. Birthday letter (Message section). Leave a blank line between paragraphs.
   letterGreeting: " My dearest Pangga,",
@@ -42,9 +41,9 @@ Happy 20th birthday! I hope you have a wonderful day filled with love, laughter,
   // 10. Gallery: add, remove or reorder items freely.
   //     "src" = photo path inside assets/images/, "caption" = text under the photo.
   gallery: [
-    { src: "assets/images/1.jpg", caption: "Bagay sayo yung ganito pangga" },
-    { src: "assets/images/2.jpg", caption: "Angas mo dito pangga, like mayora HAHAAH" },
-    { src: "assets/images/3.jpg", caption: "Model yan sya HAHHAHAHH" }
+    { src: "1.jpg", caption: "Bagay sayo yung ganito pangga" },
+    { src: "2.jpg", caption: "Angas mo dito pangga, like mayora HAHAAH" },
+    { src: "3.jpg", caption: "Model yan sya HAHHAHAHH" }
   ],
 
   // 11. Background music file (put it in assets/music/). Use "" for no music.
