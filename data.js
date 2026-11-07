@@ -48,5 +48,5 @@ Happy 20th birthday! I hope you have a wonderful day filled with love, laughter,
   ],
 
   // 11. Background music file (put it in assets/music/). Use "" for no music.
-  music: "The Crown Princess_ Christian Bautista - Aking Mahal (OST 1) [5bZma9US2IY].mp3"
+  music: "birthday-song.mp3"
 };
