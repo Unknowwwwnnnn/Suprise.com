@@ -7,7 +7,7 @@ window.SITE_DATA = {
 
   // 1. Her name (shown in the menu and the greeting)
   name: "Abegail Dumay",
-
+ 
   // 2. Birthday date and time for the countdown.
   //    Format: "YYYY-MM-DDTHH:MM:SS" (24-hour time, your local time)
   //    Example: "2027-03-14T00:00:00" = March 14, 2027 at midnight.
