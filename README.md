@@ -1,7 +1,6 @@
 # Romantic Birthday Website
 
 Plain HTML, CSS and JavaScript. No installs, works on GitHub Pages.
-
 ## What each file does
 - `index.html` – page structure (Home, Message, Gallery, Countdown, Surprise, Final).
 - `css/style.css` – colors, fonts, layout, animations, mobile design.
