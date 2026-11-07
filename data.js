@@ -3,14 +3,14 @@
 window.SITE_DATA = {
 
   // Pangalan niya
-  name: "Pangalan niya",
+  name: "Abegail Dumay",
 
   // Birthday niya: "YYYY-MM-DDTHH:MM:SS"  (halimbawa: "2027-03-14T00:00:00")
-  birthdayDate: "2027-01-01T00:00:00",
+  birthdayDate: "2026-11-08T00:00:00",
 
   // Pangunahing pagbati at maikling intro
-  greeting: "Happy Birthday, Pangalan niya!",
-  intro: "Maikling pagbati dito.",
+  greeting: "Happy Birthday, Wifey!",
+  intro: "20th Birthday",
 
   // Pangunahing larawan (nasa root ng repo)
   mainPhoto: "5.jpg",
